@@ -1,4 +1,4 @@
-# Boston
+# Boston CRime Intervention
 This Tableau dashboard visualizes key insights from Boston Police Department shooting incident data, helping identify:
 
 Hotspots and high-risk areas for gun violence across city neighborhoods
